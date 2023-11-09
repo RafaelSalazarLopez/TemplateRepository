@@ -1,0 +1,8 @@
+site_name: "rafa"
+site_description: "Template Spring boot desc"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
