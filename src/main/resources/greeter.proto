@@ -1,4 +1,4 @@
-/*syntax = "proto3";
+syntax = "proto3";
 
 option java_package = "com.example.JavaPack.proto";
 
@@ -14,4 +14,4 @@ message HelloRequest {
 // The response message containing the greetings
 message HelloReply {
     string message = 1;
-}*/
+}
