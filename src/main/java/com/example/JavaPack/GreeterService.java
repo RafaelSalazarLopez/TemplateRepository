@@ -1,4 +1,4 @@
-package com.example.JavaPack;
+/*package com.example.JavaPack;
 
 import com.example.JavaPack.proto.GreeterGrpc;
 import com.example.JavaPack.proto.GreeterOuterClass;
@@ -16,4 +16,4 @@ public class GreeterService extends GreeterGrpc.GreeterImplBase {
     responseObserver.onNext(replyBuilder.build());
     responseObserver.onCompleted();
   }
-}
+}*/
